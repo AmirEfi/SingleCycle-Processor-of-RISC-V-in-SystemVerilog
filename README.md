@@ -4,3 +4,5 @@
 This is one of my HWs in Computer Architecture course in Spring 2022.
 
 In this project, I had changed the processor to handle the new instructions.
+
+The riscvtst.txt has some examples of instructions to check processor works.
